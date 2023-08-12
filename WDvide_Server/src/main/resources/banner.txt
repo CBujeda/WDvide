@@ -1,0 +1,10 @@
+ __          _______        _     _      
+ \ \        / /  __ \      (_)   | |     
+  \ \  /\  / /| |  | |_   ___  __| | ___ 
+   \ \/  \/ / | |  | \ \ / / |/ _` |/ _ \
+    \  /\  /  | |__| |\ V /| | (_| |  __/
+     \/  \/   |_____/  \_/ |_|\__,_|\___|
+                                         
+   WDvide (23.27.7) 
+   ${application.title} ${application.version}
+   Powered by Spring Boot ${spring-boot.version}                                        

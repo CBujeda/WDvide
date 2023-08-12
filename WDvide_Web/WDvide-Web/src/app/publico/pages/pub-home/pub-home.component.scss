@@ -1,0 +1,22 @@
+.backhome{
+  background-color: #1E1E1E;
+  min-height: 100vh;
+}
+
+.titulo_high_white{
+color: white;
+}
+
+.texto_login{
+  font-family: inherit; //'shera', serif;
+  font-weight: bold; // Aplicar negrita al texto
+}
+
+
+.v-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 300px; /* Puedes ajustar esta altura según tus necesidades */
+}
+

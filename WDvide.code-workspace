@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "ALL",
+			"path": "."
+		},{
+			"name":"SERVER",
+			"path": "./WDvide_Server"
+		}
+		,{
+			"name":"WEB",
+			"path": "./WDvide_Web"
+		}
+	],
+	"settings": {}
+}
